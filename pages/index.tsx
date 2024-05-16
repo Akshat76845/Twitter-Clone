@@ -33,6 +33,7 @@ export default function Home() {
                 </li>
               ))}
             </ul>
+            <button className="bg-[#1d9bf0] mt-5 p-4 rounded-full w-full  ">Tweet</button>
           </div>
         </div>
         <div className="col-span-6 border-r-[1px] border-l-[1px] border-gray-400"></div>
